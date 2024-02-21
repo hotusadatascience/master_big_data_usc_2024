@@ -40,9 +40,9 @@ Ejemplo: si _Fecha_generacion_ = "2024-02-01" y _Fecha_evaluacion_ = "2024-02-20
 
 Sabiendo que Raquel nos cae bien y que queremos ayudarla:
 
-* ¿Serías capaz de hacer una predicción de los ingresos para los próximos 60 días?
+* ¿Serías capaz de hacer una predicción de los ingresos para los próximos 60 días? ¿Sabrías cómo medir el acierto de esta predicción?
 
-* ¿Qué días le dirías que cerrase el hotel? 
+* Basándote en lo anterior, ¿qué días le dirías que cerrase el hotel? 
 
 
 ## Entrega
