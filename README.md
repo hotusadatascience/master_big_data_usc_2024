@@ -6,7 +6,7 @@ Por un lado, cada mañana debe estimar cuáles serán los ingresos de los próxi
 
 Por otro lado, el departamento de mejoras le dice que por fin se pondrán en marcha las obras en el hotel, solucionando así gran parte de las quejas de los clientes. Sin embargo, para ello es necesario cerrarlo completamente durante 10 días seguidos. 
 
-Con toda esta situación, Raquel nos dice que una previsión de los ingresos del hotel para cada día de los próximos dos meses sería una herramienta de apoyo enorme para tomar esta decisión y perder la menor cantidad de dinero posible. 
+Con toda esta situación, Raquel nos dice que una previsión de los ingresos del hotel para cada día de los próximos dos meses sería una información muy valiosa para que le ayudaría  para tomar esta decisión y perder la menor cantidad de dinero posible. 
 
 
 ## Datos
@@ -38,7 +38,7 @@ Ejemplo: si _Fecha_generacion_ = "2024-02-01" y _Fecha_evaluacion_ = "2024-02-20
 
 ## Objetivos
 
-
+Sabiendo que Raquel nos cae bien y que queremos ayudarla:
 
 * ¿Serías capaz de hacer una predicción de los ingresos para los próximos 60 días?
 
