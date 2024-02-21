@@ -6,7 +6,7 @@ Por un lado, cada mañana debe estimar cuáles serán los ingresos de los próxi
 
 Por otro lado, el departamento de mejoras le dice que por fin se pondrán en marcha las obras en el hotel, solucionando así gran parte de las quejas de los clientes. Sin embargo, para ello es necesario cerrarlo completamente durante 10 días seguidos. 
 
-Con toda esta situación, Raquel nos dice que una previsión de los ingresos, día a día, del hotel para los próximos dos meses sería una herramienta de apoyo enorme para tomar esta decisión y perder la menor cantidad de dinero posible. 
+Con toda esta situación, Raquel nos dice que una previsión de los ingresos del hotel para cad día de los próximos dos meses sería una herramienta de apoyo enorme para tomar esta decisión y perder la menor cantidad de dinero posible. 
 
 
 ## Datos
