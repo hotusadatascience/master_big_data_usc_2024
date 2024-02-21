@@ -1,7 +1,9 @@
 # Caso de negocio: Eurostars Hotel Company
 
 En un día aparentemente normal, recibimos una llamada de una directora y revenue manager de un céntrico hotel de Barcelona que nos cae especialmente bien: Raquel. Un poco agobiada nos comenta que necesita algo de ayuda con su trabajo. 
+
 Por un lado, cada mañana debe estimar cuáles serán los ingresos de los próximos 60 días. A pesar de que tiene mucho conocimiento del negocio y lleva ya bastantes años realizando esto, le resulta algo tedioso y piensa en que quizás con todos estos avances de la IA y del big data algo se podrá hacer para mejorar sus resultados. 
+
 Por otro lado, el departamento de mejoras le dice que por fin se pondrán en marcha las obras en el hotel, solucionando así gran parte de las quejas de los clientes. Sin embargo, para ello es necesario cerrarlo completamente durante 10 días seguidos. 
 
 Con toda esta situación, Raquel nos dice que una previsión de los ingresos, día a día, del hotel para los próximos dos meses sería una herramienta de apoyo enorme para tomar esta decisión y perder la menor cantidad de dinero posible. 
@@ -46,6 +48,7 @@ Ejemplo: si _Fecha_generacion_ = "2024-02-01" y _Fecha_evaluacion_ = "2024-02-20
 ## Entrega
 
 Entrega tus resultados en un notebook o en un link al repositorio en Github a alejandra.comesana@eurostarshotelcompany.com o ignacio.freire@eurostarshotelcompany.com
+
 En caso de haber una solución particularmente buena, esta será recompensada con una estancia en un hotel de la cadena (se aplican excepciones en cuanto a fechas y hoteles seleccionables).
 
 
