@@ -6,15 +6,15 @@ Por un lado, cada mañana debe estimar cuáles serán los ingresos de los próxi
 
 Por otro lado, el departamento de mejoras le dice que por fin se pondrán en marcha las obras en el hotel, solucionando así gran parte de las quejas de los clientes. Sin embargo, para ello es necesario cerrarlo completamente durante 10 días seguidos. 
 
-Con toda esta situación, Raquel nos dice que una previsión de los ingresos del hotel para cad día de los próximos dos meses sería una herramienta de apoyo enorme para tomar esta decisión y perder la menor cantidad de dinero posible. 
+Con toda esta situación, Raquel nos dice que una previsión de los ingresos del hotel para cada día de los próximos dos meses sería una herramienta de apoyo enorme para tomar esta decisión y perder la menor cantidad de dinero posible. 
 
 
 ## Datos
 
 Como no tenemos ni idea de por dónde empezar, le preguntamos a Raquel en qué se basa ella para hacer sus previsiones. Nos dice que cada día recoge distintos datos que agrupa en un excel y que, más o menos, le sirven para ir encontrando patrones y similitudes. Aún así, nos avisa de que muchas veces hay datos que no encuentra y que no le queda otra que dejar en blanco. Muy amablemente, nos lo pasa en formato csv (**datos_esei.csv**), con unas columnas que tienen los siguientes significados:
  
-* _Fecha_generacion_: 
-* _Fecha_evaluacion_: 
+* _Fecha_generacion_: Fecha de generación de los datos
+* _Fecha_evaluacion_: Fecha que se evalúa (para la que se generan los datos)
 * _Antelacion_: Número de días que quedan para _Fecha_evaluacion_
 * _Numero_habitaciones_hotel_: Número de habitaciones del hotel
 * _Numero_habitaciones_bloqueadas_: Número de habitaciones del hotel que no puedo vender porque están en mantenimiento (ej: se ha estropeado el lavabo)
