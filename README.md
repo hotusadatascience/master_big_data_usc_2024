@@ -38,7 +38,7 @@ Ejemplo: si _Fecha_generacion_ = "2024-02-01" y _Fecha_evaluacion_ = "2024-02-20
 
 ## Objetivos
 
-Sabiendo que Raquel nos cae bien y que queremos ayudarla:
+Sabiendo que Raquel es nuestra revenue manager favorita y que queremos ayudarla:
 
 * ¿Serías capaz de hacer una predicción de los ingresos para los próximos 60 días? ¿Sabrías cómo medir el acierto de esta predicción?
 
