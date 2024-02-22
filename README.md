@@ -27,8 +27,8 @@ Como no tenemos ni idea de por dónde empezar, le preguntamos a Raquel en qué s
 * _Precio_competidor2_: Precio del competidor 2
 * _Precio_competidor3_: Precio del competidor 3
 * _Cancelaciones_: Número de cancelaciones que llevo para este día 
-* _Evento_muy_grande_: ¿Hay un evento especialmente grande en Barcelona?
-* _Evento_grande_: ¿Hay un evento grande en Barcelona?
+* _Evento_muy_grande_: ¿Hay un evento especialmente grande en Roma?
+* _Evento_grande_: ¿Hay un evento grande en Roma?
 * _Duracion_evento_: Duración del evento
 * _Horas_sol_: Horas de sol hay previstas para este día (_Fecha_evaluacion_)
 * _Temperatura_minima_: Temperatura mínima prevista para este día (_Fecha_evaluacion_)
@@ -49,6 +49,6 @@ Sabiendo que Raquel es nuestra revenue manager favorita y que queremos ayudarla:
 
 Entrega tus resultados en un notebook o en un link al repositorio en Github a alejandra.comesana@eurostarshotelcompany.com o ignacio.freire@eurostarshotelcompany.com
 
-En caso de haber una solución particularmente buena, esta será recompensada con una estancia en un hotel de la cadena (se aplican excepciones en cuanto a fechas y hoteles seleccionables).
+En caso de haber una solución particularmente buena, esta será recompensada con una estancia de dos noches en un hotel de la cadena (se aplican excepciones en cuanto a fechas y hoteles seleccionables).
 
 
