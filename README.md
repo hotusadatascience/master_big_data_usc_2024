@@ -1,6 +1,6 @@
 # Caso de negocio: Eurostars Hotel Company
 
-En un día aparentemente normal, recibimos una llamada de una directora y revenue manager de un céntrico hotel de Barcelona que nos cae especialmente bien: Raquel. Un poco agobiada nos comenta que necesita algo de ayuda con su trabajo. 
+En un día aparentemente normal, recibimos una llamada de una directora y revenue manager de un céntrico hotel de Roma que nos cae especialmente bien: Raquel. Un poco agobiada nos comenta que necesita algo de ayuda con su trabajo. 
 
 Por un lado, cada mañana debe estimar cuáles serán los ingresos de los próximos 60 días. A pesar de que tiene mucho conocimiento del negocio y lleva ya bastantes años realizando esto, le resulta algo tedioso y piensa en que quizás con todos estos avances de la IA y del big data algo se podrá hacer para mejorar sus resultados. 
 
